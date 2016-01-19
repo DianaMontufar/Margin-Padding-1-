@@ -1,0 +1,25 @@
+.div1{
+	width: 190px;
+	height: 260px;
+	border: 1px red solid;
+	padding: 7px;
+
+}
+.div2{
+	width: 190px;
+	height: 260px;
+	border: 1px red solid;
+	padding: 7px;
+	display: inline-block;
+	margin-top: 8px;
+
+}
+.div3{
+	width: 190px;
+	height: 260px;
+	border: 1px red solid;
+	padding: 7px;
+	display: block;
+	margin-top: 8px;
+
+}
